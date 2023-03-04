@@ -7,14 +7,14 @@ In order to start the text-based version of the game, use:
 python3 ants.py
 ```
 
-To run the old GUI, use:
-```
-python3 ants_gui.py
-```
-
 In order to start the GUI-based version of the game, use:
 ```
 python3 gui.py
+```
+
+To run the old GUI, use:
+```
+python3 ants_gui.py
 ```
 
 Configuration options:  
