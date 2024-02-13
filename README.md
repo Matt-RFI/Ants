@@ -2,6 +2,7 @@
 
 Tower defense game inspired by Plants vs. Zombies. Text-based and GUI option for gameplay.
 
+## Running the game
 In order to start the text-based version of the game, use:
 ```
 python3 ants.py
