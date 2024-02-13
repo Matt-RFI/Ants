@@ -1,4 +1,4 @@
-# Ants-Python-Project
+# Ants
 
 Tower defense game inspired by Plants vs. Zombies. Text-based and GUI option for gameplay.
 
